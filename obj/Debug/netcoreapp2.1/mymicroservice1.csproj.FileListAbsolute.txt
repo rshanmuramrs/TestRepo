@@ -1,0 +1,14 @@
+D:\Shanmugam\Learn\mymicroservice1\bin\Debug\netcoreapp2.1\mymicroservice1.deps.json
+D:\Shanmugam\Learn\mymicroservice1\bin\Debug\netcoreapp2.1\mymicroservice1.runtimeconfig.json
+D:\Shanmugam\Learn\mymicroservice1\bin\Debug\netcoreapp2.1\mymicroservice1.runtimeconfig.dev.json
+D:\Shanmugam\Learn\mymicroservice1\bin\Debug\netcoreapp2.1\mymicroservice1.dll
+D:\Shanmugam\Learn\mymicroservice1\bin\Debug\netcoreapp2.1\mymicroservice1.pdb
+D:\Shanmugam\Learn\mymicroservice1\obj\Debug\netcoreapp2.1\mymicroservice1.csprojAssemblyReference.cache
+D:\Shanmugam\Learn\mymicroservice1\obj\Debug\netcoreapp2.1\mymicroservice1.csproj.CoreCompileInputs.cache
+D:\Shanmugam\Learn\mymicroservice1\obj\Debug\netcoreapp2.1\mymicroservice1.RazorAssemblyInfo.cache
+D:\Shanmugam\Learn\mymicroservice1\obj\Debug\netcoreapp2.1\mymicroservice1.RazorAssemblyInfo.cs
+D:\Shanmugam\Learn\mymicroservice1\obj\Debug\netcoreapp2.1\mymicroservice1.AssemblyInfoInputs.cache
+D:\Shanmugam\Learn\mymicroservice1\obj\Debug\netcoreapp2.1\mymicroservice1.AssemblyInfo.cs
+D:\Shanmugam\Learn\mymicroservice1\obj\Debug\netcoreapp2.1\mymicroservice1.RazorTargetAssemblyInfo.cache
+D:\Shanmugam\Learn\mymicroservice1\obj\Debug\netcoreapp2.1\mymicroservice1.dll
+D:\Shanmugam\Learn\mymicroservice1\obj\Debug\netcoreapp2.1\mymicroservice1.pdb
